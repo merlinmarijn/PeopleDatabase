@@ -1,0 +1,9 @@
+﻿  PersonDatabase.cpp
+C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode2.3\gpr\Person Database\PersonDatabase.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode2.3\gpr\Person Database\PersonDatabase.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode2.3\gpr\Person Database\ConsoleInput.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode2.3\gpr\Person Database\ConsoleOutput.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode2.3\gpr\Person Database\PersonDatabase.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode2.3\gpr\Person Database\PersonDatabase.cpp(15,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode2.3\gpr\Person Database\ConsoleInput.h(81): warning C4717: 'ConsoleInput::GetInput': recursive on all control paths, function will cause runtime stack overflow
+  Person Database.vcxproj -> C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode2.3\gpr\Person Database\x64\Debug\Person Database.exe
